@@ -1,0 +1,57 @@
+.fa-solid{
+    cursor: pointer;
+}
+.green-icon{
+    color:#198754
+}
+
+.red-icon{
+    color:#dc3545
+}
+
+.crud{
+    height: 80vh;
+    
+   
+}
+.card{
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    color: #fff;
+}
+.table{
+    color: #fff;
+    margin: 20px auto;
+    width: 450px;
+}
+
+.formulario form input{
+    padding: .7em;
+    border: none;
+    background: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+.formuinput,
+.boton{
+    width: 369px !important;
+    margin: 3rem auto;
+}
+.calendarcvv{
+    width: 390px;
+    margin: 3rem auto;
+}
+.table td{
+    padding: 1.5rem 0.5rem;
+}
+.formulario{
+    box-shadow: 0px 10px 10px -6px black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.formu{
+    margin-top: 58px;
+}

@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+     /* fallback for old browsers */
+    
+     background-image: url('https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+     background-size:cover ;
+    
+}
+.titulo{
+    font-family: 'Shippori Antique B1', sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+}
